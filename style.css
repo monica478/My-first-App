@@ -1,0 +1,52 @@
+h1{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3{
+    color: navy;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: #ffffff;
+}
+
+img{
+    padding: 5px;
+    border-radius: 20px;
+}
+
+ul{
+    list-style-type: circle;
+    list-style-image: url('images/pointer-icon.png');
+}
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background: aqua;
+    color : #ffffff;
+}
+
+body{
+    background-color: lightseagreen;
+}
